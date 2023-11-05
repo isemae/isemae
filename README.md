@@ -6,17 +6,17 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F95118?style=for-the-badge&logo=swift&logoColor=white)
 ![Py](https://img.shields.io/badge/Python-1969AA?style=for-the-badge&logo=python&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![]()
 ![]()
 
 **할 수 있어요**
 
 ![js](https://img.shields.io/badge/JavaScript-F4E677?style=for-the-badge&logo=JavaScript&logoColor=black)
+![html5](https://img.shields.io/badge/HTML5-E28A71?style=for-the-badge&logo=html5&logoColor=black)
+![css3](https://img.shields.io/badge/CSS3-5A8FB5?style=for-the-badge&logo=css3&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-5A8FB5?style=for-the-badge&logo=css3&logoColor=black)
-![html5](https://img.shields.io/badge/HTML5-E28A71?style=for-the-badge&logo=html5&logoColor=black)
 
 
 ![]()
