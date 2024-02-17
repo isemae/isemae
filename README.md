@@ -12,7 +12,6 @@
 **할 수 있어요**
 
 ![js](https://img.shields.io/badge/JavaScript-F4E677?style=for-the-badge&logo=JavaScript&logoColor=black)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ![]()
