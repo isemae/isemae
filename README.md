@@ -3,7 +3,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F95118?style=for-the-badge&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F4E677?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![]()
 
 ## Tools
